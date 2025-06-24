@@ -97,7 +97,7 @@ body {
 }
 
 .hero-left h1 span {
-  color: #f36f80
+  color: #c77332;
 }
 
 .buttons {
@@ -115,13 +115,13 @@ body {
 }
 
 .btn.primary {
-  background: #f36f80;
+  background: #c77332;
   color: #fff;
 }
 
 .btn.outline {
-  border: 2px solid #f36f80;
-  color: #f36f80;
+  border: 2px solid #c77332;
+  color: #c77332;
 }
 
 .hero-right {
